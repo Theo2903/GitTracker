@@ -1,5 +1,5 @@
 # Intro :
-This project was completed following the instructions provided in Sean Allen's iOS App Development course on SwiftUI. Details and requirements are summarized below.
+This project was completed following the instructions provided in Sean Allen's iOS App Development course on Swift with UIKit. Details and requirements are summarized below.
 
 
 # Overview:
