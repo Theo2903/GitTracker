@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		1431A1442C1C60FC00E066CB /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1431A1432C1C60FC00E066CB /* SearchVC.swift */; };
 		1431A1462C1C613700E066CB /* FavoriteListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1431A1452C1C613700E066CB /* FavoriteListVC.swift */; };
+		14834F192C20C5770072FEE9 /* GTButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14834F182C20C5770072FEE9 /* GTButton.swift */; };
+		14834F1D2C20C86E0072FEE9 /* GTTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14834F1C2C20C86E0072FEE9 /* GTTextField.swift */; };
 		14D644EB2BEE6451008C75FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D644EA2BEE6451008C75FF /* AppDelegate.swift */; };
 		14D644ED2BEE6451008C75FF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D644EC2BEE6451008C75FF /* SceneDelegate.swift */; };
 		14D644F42BEE6453008C75FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14D644F32BEE6453008C75FF /* Assets.xcassets */; };
@@ -18,6 +20,8 @@
 /* Begin PBXFileReference section */
 		1431A1432C1C60FC00E066CB /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
 		1431A1452C1C613700E066CB /* FavoriteListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteListVC.swift; sourceTree = "<group>"; };
+		14834F182C20C5770072FEE9 /* GTButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GTButton.swift; sourceTree = "<group>"; };
+		14834F1C2C20C86E0072FEE9 /* GTTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GTTextField.swift; sourceTree = "<group>"; };
 		14D644E72BEE6451008C75FF /* GitTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14D644EA2BEE6451008C75FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		14D644EC2BEE6451008C75FF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				14D644F82BEE6453008C75FF /* Info.plist */,
 				1431A1432C1C60FC00E066CB /* SearchVC.swift */,
 				1431A1452C1C613700E066CB /* FavoriteListVC.swift */,
+				14834F182C20C5770072FEE9 /* GTButton.swift */,
+				14834F1C2C20C86E0072FEE9 /* GTTextField.swift */,
 			);
 			path = GitTracker;
 			sourceTree = "<group>";
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14834F192C20C5770072FEE9 /* GTButton.swift in Sources */,
 				1431A1462C1C613700E066CB /* FavoriteListVC.swift in Sources */,
+				14834F1D2C20C86E0072FEE9 /* GTTextField.swift in Sources */,
 				1431A1442C1C60FC00E066CB /* SearchVC.swift in Sources */,
 				14D644EB2BEE6451008C75FF /* AppDelegate.swift in Sources */,
 				14D644ED2BEE6451008C75FF /* SceneDelegate.swift in Sources */,
